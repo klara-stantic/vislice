@@ -2,6 +2,6 @@
 uvp-git-vaja1
 
 # Znani matematiki
-- Jurij Vega 
+- Borut Pahor
 - Ivan Vidav
 - Marina Rugelj
