@@ -2,6 +2,6 @@
 uvp-git-vaja1
 
 # Znani matematiki
-- Janez Janša
+- Jurij Vega
 - Ivan Vidav
 - Marina Rugelj
